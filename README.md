@@ -2,4 +2,4 @@
 Notebook for processing ice segmentation for British Antarctic Survey(BAS) WINNER SOLUTION
 
 # 🏆 Winner of SciML Hackathon
-|nilesh14k|
+-nilesh14k-
