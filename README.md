@@ -1,4 +1,3 @@
-Ice Segmentation Using AI/ML
 # Leeds-SciML-Sea-Ice-Segmentation-Hackathon-Submission
 Notebook for processing ice segmentation for British Antarctic Survey(BAS) WINNER SOLUTION
 
